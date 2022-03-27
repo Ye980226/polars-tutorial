@@ -1,4 +1,6 @@
 # Polars-Tutorial
+> 本教程面向Python语言使用者
+
 请在使用教程前安装&emsp;`pip install polars`.
 
 ## 网页版
@@ -11,7 +13,7 @@
 * data： 数据集
 * ebook： 教程电子版
 * notebook： 教程jupyter notebook
- 
+
 ## 参考资料
 * [pola-rs/polars](https://github.com/pola-rs/polars) 源码
 * [Polars-User Guide](https://pola-rs.github.io/polars-book/user-guide/index.html) 官方文档
