@@ -9,7 +9,7 @@
 ## 大纲
 
 <div align="center">
-    <img src="./source/images/polars-tutorial.png" width="90%">
+    <img src="./docs/_images/polars-tutorial.png" width="90%">
 </div>
 
 ## 论坛
