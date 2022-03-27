@@ -1,4 +1,7 @@
 # Polars-Tutorial
+<div align="center">
+    <img src="./docs/_images/polars.jpg">
+</div>
 
 > 本教程面向Python语言使用者，请保证python版本在3.6及以上
 
