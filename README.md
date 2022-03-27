@@ -8,7 +8,10 @@
 ## 论坛
 
 ## 文件内容
-
+* data： 数据集
+* ebook： 教程电子版
+* notebook： 教程jupyter notebook
+ 
 ## 参考资料
 * [pola-rs/polars](https://github.com/pola-rs/polars) 源码
 * [Polars-User Guide](https://pola-rs.github.io/polars-book/user-guide/index.html) 官方文档
