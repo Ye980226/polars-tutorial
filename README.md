@@ -7,6 +7,13 @@
 
 请在使用教程前安装&emsp;`pip install polars`.
 
+## 项目介绍
+&emsp;&emsp;Polars是一个速度极快的数据帧库，使用[Apache Arrow](https://zhuanlan.zhihu.com/p/339132159)列格式作为内存模型，以[Rust](https://www.zhihu.com/question/393796866)实现。在最近几年，Polars在处理大数据集上的优势逐渐显著，受到国外很多科研机构的喜爱，比如荷兰一家号称“水上特斯拉”的公司[Xomnia](https://www.xomnia.com/)就是该工具的赞助商。我们可以从下图看到，Polars的优势有多么明显：
+<div align="center">
+    <img src="./docs/_images/ch02_db-benchmark.png">
+</div>
+但是如此快速的一个工具，却在没有一个可供国内使用的中文文档。 所以本项目的目的在于，撰写一个针对该工具的一个研究性的教程，帮助更多的人了解到这个库。
+
 ## 网页版
 
 ## 大纲
@@ -14,6 +21,13 @@
 <div align="center">
     <img src="./docs/_images/polars-tutorial.png">
 </div>
+
+## 项目进展
+|章节|状态|要求|负责人|
+|--|--|--|--|
+|第一章 预备知识|1. 确定了文章大纲<br />2. 确定了撰写要求|1. 尽可能多编程举例<br />2. 文末注明参考文献|[林景](https://github.com/linjing-lab)|
+|第二章 初识Polars|1. 撰写了大体内容<br />2. 等待扩充修改|1.尽可能多写Polars体验实例<br />2. 文末附上参考文献|[林景](https://github.com/linjing-lab)|
+|第三章 Polars基础|暂未启动|暂未启动||
 
 ## PR要求
 * `fork`之后建立自己的分支，先在自己的分支上修改
@@ -23,13 +37,6 @@
 * 数据集请放在`data/`下，命名好名称
 * 尽量拓展每一章节的内容，发挥想象多举几个用例
 * 项目初期尽量以研读官方文档为主，如果能够把数据分析的项目等改写成Pandas实现，那么后续再加入
-
-## 项目进展
-|章节|状态|要求|负责人|
-|--|--|--|--|
-|第一章 预备知识|1. 确定了文章大纲<br />2. 确定了撰写要求|1. 尽可能多编程举例<br />2. 文末注明文献|[林景](https://github.com/linjing-lab)|
-|第二章 初识Polars|1. 撰写了大体内容<br />2. 等待扩充修改|1.尽可能多写Polars体验实例<br />2. 文末附上文献|[林景](https://github.com/linjing-lab)|
-|第三章 Polars基础|暂未启动|暂未启动||
 
 ## 文件内容
 
