@@ -28,7 +28,7 @@
 |章节|状态|要求|负责人|
 |--|--|--|--|
 |第一章 预备知识|1. 确定了文章大纲<br />2. 确定了撰写要求|1. 尽可能多编程举例<br />2. 文末注明参考文献|[林景](https://github.com/linjing-lab)|
-|第二章 初识Polars|1. 撰写了大体内容<br />2. 等待扩充修改|1.尽可能多写Polars体验实例<br />2. 文末附上参考文献|[林景](https://github.com/linjing-lab)|
+|第二章 初识Polars|1. 撰写了大体内容<br />2. 等待扩充修改|1. 尽可能多写Polars体验实例<br />2. 文末附上参考文献|[林景](https://github.com/linjing-lab)|
 |第三章 Polars基础|暂未启动|暂未启动||
 
 ## PR要求（[PR教程](https://chinese.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github/)）
