@@ -10,7 +10,7 @@
 ## 项目介绍
 &emsp;&emsp;Polars是一个速度极快的数据帧库，使用[Apache Arrow](https://zhuanlan.zhihu.com/p/339132159)列格式作为内存模型，以[Rust](https://www.zhihu.com/question/393796866)实现。在最近几年，Polars在处理大数据集上的优势逐渐显著，受到国外很多科研机构的喜爱，比如荷兰一家号称“水上特斯拉”的公司[Xomnia](https://www.xomnia.com/)就是该工具的赞助商。我们可以从下图看到，Polars的优势有多么明显：
 <div align="center">
-    <img src="./docs/_images/ch02_db-benchmark.png" width="60%">
+    <img src="./docs/_images/ch02_db-benchmark.png" width="50%">
 </div>
 但是如此快速的一个工具，却在没有一个可供国内使用的中文文档。 所以本项目的目的在于，撰写一个针对该工具的一个研究性的教程，帮助更多的人了解到这个库。
 
