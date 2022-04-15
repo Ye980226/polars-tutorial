@@ -23,6 +23,13 @@
 * 尽量拓展每一章节的内容，发挥想象多举几个用例
 * 项目初期尽量以研读官方文档为主，如果能够把数据分析的项目等改写成Pandas实现，那么后续再加入
 
+## 项目进展
+|章节|状态|要求|负责人|
+|--|--|--|--|
+|第一章 预备知识|1. 确定了文章大纲<br />2. 确定了撰写要求|1. 尽可能多编程举例<br />2. 文末注明文献|[林景](https://github.com/linjing-lab)|
+|第二章 初识Polars|1. 撰写了大体内容<br />2. 等待扩充修改|1.尽可能多Polars体验实例<br />2. 文末附上文献|[林景](https://github.com/linjing-lab)|
+|第三章 Polars基础|暂未启动|暂未启动||
+
 ## 文件内容
 
 * data： 数据集
@@ -38,13 +45,6 @@
 * [Pandas教程](https://www.runoob.com/pandas/pandas-tutorial.html)
 * [Spark教程](https://www.w3cschool.cn/spark/)
 * [Datawhale出品：joyful-pandas](https://github.com/datawhalechina/joyful-pandas)
-
-## 项目进展
-|章节|状态|要求|负责人|
-|--|--|--|--|
-|第一章 预备知识|1. 确定了文章大纲<br />2. 确定了撰写要求|1. 尽可能多编程举例<br />2. 文末注明文献|[林景](https://github.com/linjing-lab)|
-|第二章 初识Polars|1. 撰写了大体内容<br />2. 等待扩充修改|1.尽可能多Polars体验实例<br />2. 文末附上文献|[林景](https://github.com/linjing-lab)|
-|第三章 Polars基础|暂未启动|暂未启动||
 
 ## 人员安排
 |成员|个人简介|社交主页|
