@@ -8,7 +8,7 @@
 请在使用教程前安装&emsp;`pip install polars`.
 
 ## 项目介绍
-&emsp;&emsp;Polars是一个速度极快的数据帧库，使用[Apache Arrow](https://zhuanlan.zhihu.com/p/339132159)列格式作为内存模型，以[Rust](https://www.zhihu.com/question/393796866)实现。在最近几年，Polars在处理大数据集上的优势逐渐显著，受到国外很多科研机构的喜爱，比如荷兰一家号称“水上特斯拉”的公司[Xomnia](https://www.xomnia.com/)就是该工具的赞助商。我们可以从下图看到，Polars的优势有多么明显：
+&emsp;&emsp;Polars是一个速度极快的数据帧库，使用[Apache Arrow](https://arrow.apache.org/)列格式作为内存模型，以[Rust](https://www.rust-lang.org/)实现。在最近几年，Polars在处理大数据集上的优势逐渐显著，受到国外很多科研机构的喜爱，比如荷兰一家号称“水上特斯拉”的公司[Xomnia](https://www.xomnia.com/)就是该工具的赞助商。我们可以从下图看到，Polars的优势有多么明显：
 <div align="center">
     <img src="./docs/_images/ch02_db-benchmark.png" width="50%">
 </div>
