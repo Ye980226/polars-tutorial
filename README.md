@@ -3,7 +3,7 @@
     <img src="./docs/_images/polars.jpg">
 </div>
 
-> 本教程面向有一定Python语言基础的数据爱好者，请保证python版本在3.6及以上
+> 本教程面向有一定python语言基础的数据爱好者，请保证python版本在3.6及以上
 
 请在使用教程前安装&emsp;`pip install polars`.
 
