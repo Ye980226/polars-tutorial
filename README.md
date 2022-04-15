@@ -31,7 +31,7 @@
 |第二章 初识Polars|1. 撰写了大体内容<br />2. 等待扩充修改|1.尽可能多写Polars体验实例<br />2. 文末附上参考文献|[林景](https://github.com/linjing-lab)|
 |第三章 Polars基础|暂未启动|暂未启动||
 
-## PR要求
+## PR要求（[PR教程](https://chinese.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github/)）
 * `fork`之后建立自己的分支，先在自己的分支上修改
 * 必须先在`Jupyter notebook`中写，代码运行测试通过
 * 每一章notebook下面必须附上写这篇文章的参考文献（采用规定格式）
