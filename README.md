@@ -5,7 +5,7 @@
 
 > 本教程面向有一定python语言基础的数据爱好者，请保证python版本在3.6及以上
 
-请在使用教程前安装&emsp;`pip install polars`.
+请在使用教程前安装`pip install polars`.
 
 ## 项目介绍
 &emsp;&emsp;Polars是一个速度极快的数据帧库，使用[Apache Arrow](https://arrow.apache.org/)列格式作为内存模型，以[Rust](https://www.rust-lang.org/)实现。正如其翻译过来的中文名是北极熊，它的特征是体型硕大、性格凶猛并且适合在恶劣环境生存，恰好对应于Polars的设计理念（功能强大），优势定位（稳定快速）与应用场景（大数据集），与[Pandas](https://github.com/datawhalechina/joyful-pandas)（熊猫）"性格温顺"且不适应在"恶劣环境"生存等的特征形成鲜明对比。 在最近几年，Polars在处理大数据集上的优势逐渐显著，受到国外很多科研机构的喜爱，比如荷兰一家号称“水上特斯拉”的公司[Xomnia](https://www.xomnia.com/)就是该工具的赞助商。我们可以从下图看到，Polars的优势有多么明显：
