@@ -1,4 +1,5 @@
 # Polars-Tutorial
+
 <div align="center">
     <img src="./docs/_images/polars.jpg">
 </div>
