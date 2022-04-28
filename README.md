@@ -1,4 +1,4 @@
-# Polars-Tutorial
+# polars-tutorial🐻
 
 <div align="center">
     <img src="./docs/_images/polars.jpg">
