@@ -1,7 +1,9 @@
 # polars-tutorial🐻
 
 <p align="center">
-    <img src="./docs/_images/polars.jpg">
+    <a href='https://github.com/pola-rs/polars'>
+        <img src="./docs/_images/polars.jpg">
+    </a>
 </p>
 
 > 本教程面向有一定python语言基础的数据爱好者，请保证python版本在3.6及以上
@@ -21,9 +23,9 @@
 
 ## 大纲
 
-<div align="center">
+<p align="center">
     <img src="./docs/_images/polars-tutorial.png">
-</div>
+</p>
 
 ## 项目进展
 |章节|状态|要求|负责人|
@@ -50,6 +52,7 @@
 ## 参考资料
 
 * [pola-rs/polars](https://github.com/pola-rs/polars) 源码
+* [pola-rs/polars-book-cn](https://github.com/pola-rs/polars-book-cn) 中文文档
 * [Polars-User Guide](https://pola-rs.github.io/polars-book/user-guide/index.html) 官方文档
 * [Python3基础教程](https://www.runoob.com/python3/python3-tutorial.html)
 * [Numpy教程](https://www.runoob.com/numpy/numpy-tutorial.html)
