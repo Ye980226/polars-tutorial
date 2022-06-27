@@ -8,15 +8,17 @@
 
 > 本教程面向有一定python语言基础的数据爱好者，请保证python版本在3.6及以上
 
-请在使用教程前安装`pip install polars`.
+请在使用教程前安装`pip install polars`。
 
 ## 项目介绍
-&emsp;&emsp;Polars是一个速度极快的数据帧库，使用[Apache Arrow](https://arrow.apache.org/)列格式作为内存模型，以[Rust](https://www.rust-lang.org/)实现。正如其翻译过来的中文名是北极熊，它的特征是体型硕大、性格凶猛并且适合在恶劣环境生存，恰好对应于Polars的设计理念（功能强大），优势定位（稳定快速）与应用场景（大数据集），与[Pandas](https://github.com/datawhalechina/joyful-pandas)（熊猫）"性格温顺"且不适应在"恶劣环境"生存等的特征形成鲜明对比。 在最近几年，Polars在处理大数据集上的优势逐渐显著，受到国外很多科研机构的喜爱，比如荷兰一家号称“水上特斯拉”的公司[Xomnia](https://www.xomnia.com/)就是该工具的赞助商。我们可以从下图看到，Polars的优势有多么明显：
+&emsp;&emsp;Polars 是一个速度极快的数据帧库，使用 [Apache Arrow](https://arrow.apache.org/) 列格式作为内存模型，以 [Rust](https://www.rust-lang.org/) 实现。正如其翻译过来的中文名是北极熊，它的特征是体型硕大、性格凶猛并且适合在恶劣环境生存，恰好对应于Polars的设计理念（功能强大），优势定位（稳定快速）与应用场景（大数据集），与 [Pandas](https://github.com/datawhalechina/joyful-pandas) （熊猫）"性格温顺"且不适应在"恶劣环境"生存等的特征形成鲜明对比。 在最近几年，Polars在处理大数据集上的优势逐渐显著，受到国外很多科研机构的喜爱，比如荷兰一家号称“水上特斯拉”的公司 [Xomnia](https://www.xomnia.com/) 就是该工具的赞助商。我们可以从下图看到，Polars的优势有多么明显：
+
 <p align="center">
     <a href='https://h2oai.github.io/db-benchmark/'>
         <img src="./docs/_images/ch02_db-benchmark.png" width="55%">
     </a>
 </p>
+
 但是如此快速的一个工具，却没有一个可供国内使用的中文文档。 所以本项目的目的在于，撰写一个针对该工具的教程，帮助更多的人了解到这个库。
 
 &emsp;&emsp;我们热烈欢迎喜爱Python数据分析的各界人士加入这个项目，共同探讨如何使用`Polars`快速解决数据分析问题，成为里程碑中的一员。
@@ -30,13 +32,18 @@
 </p>
 
 ## 项目进展
+
+<div align="center">
+
 |章节|状态|要求|负责人|
 |--|--|--|--|
 |第一章 预备知识|1. 确定了文章大纲<br />2. 确定了撰写要求|1. 尽可能多编程举例<br />2. 文末注明参考文献|[林景](https://github.com/linjing-lab)|
 |第二章 初识Polars|1. 撰写了大体内容<br />2. 等待扩充修改|1. 尽可能多写Polars体验实例<br />2. 文末附上参考文献|[林景](https://github.com/linjing-lab)|
 |第三章 Polars基础|暂未启动|暂未启动||
 
-## Pull Request要求（[PR教程](https://chinese.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github/)）
+</div>
+
+## [Pull Request](https://chinese.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github/)要求
 * `fork`之后建立自己的分支，先在自己的分支上修改
 * 必须先在`Jupyter notebook`中写，代码运行测试通过
 * 每一章notebook下面必须附上写这篇文章的参考文献（采用规定格式）
@@ -53,18 +60,21 @@
 
 ## 参考资料
 
-* [pola-rs/polars](https://github.com/pola-rs/polars) 源码
 * [pola-rs/polars-book-cn](https://github.com/pola-rs/polars-book-cn) 中文文档
-* [Polars-User Guide](https://pola-rs.github.io/polars-book/user-guide/index.html) 官方文档
 * [Python3基础教程](https://www.runoob.com/python3/python3-tutorial.html)
 * [Numpy教程](https://www.runoob.com/numpy/numpy-tutorial.html)
 * [Pandas教程](https://www.runoob.com/pandas/pandas-tutorial.html)
 * [Spark教程](https://www.w3cschool.cn/spark/)
 
 ## 人员安排
+
+<div align="center">
+
 |成员|个人简介|社交主页|
 |--|--|--|
 |林景|武汉理工大学理学院数学系|[CSDN](https://blog.csdn.net/linjing_zyq)<br />[Github](https://github.com/linjing-lab)|
+
+</div>
 
 ## 关注我们
 <div align=center>
