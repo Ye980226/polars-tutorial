@@ -1,4 +1,4 @@
-# polars-tutorial🐻
+# polars中文教程🐻
 
 <p align="center">
     <a href='https://github.com/pola-rs/polars'>
@@ -19,7 +19,7 @@
     </a>
 </p>
 
-但是如此快速的一个工具，却没有一个可供国内使用的中文文档。 所以本项目的目的在于，撰写一个针对该工具的教程，帮助更多的人了解到这个库。
+但是如此快速的一个工具，却没有一个可供国内使用的中文教程。 所以本项目的目的在于，撰写一个针对该工具的教程，帮助更多的人了解到这个库。
 
 &emsp;&emsp;我们热烈欢迎喜爱Python数据分析的各界人士加入这个项目，共同探讨如何使用`Polars`快速解决数据分析问题，成为里程碑中的一员。
 
@@ -37,20 +37,15 @@
 
 |章节|状态|要求|负责人|
 |--|--|--|--|
-|第一章 预备知识|1. 确定了文章大纲<br />2. 确定了撰写要求|1. 尽可能多编程举例<br />2. 文末注明参考文献|[林景](https://github.com/linjing-lab)|
-|第二章 初识Polars|1. 撰写了大体内容<br />2. 等待扩充修改|1. 尽可能多写Polars体验实例<br />2. 文末附上参考文献|[林景](https://github.com/linjing-lab)|
-|第三章 Polars基础|暂未启动|暂未启动||
+|第一章 Python基础||||
+|第二章 Numpy基础||||
+|第三章 初识Polars||||
+|第四章 Polars基础||||
+|第五章 Polars进阶||||
+|第六章 Polars高级||||
+|第七章 附属生态||||
 
 </div>
-
-## [Pull Request](https://chinese.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github/)要求
-* `fork`之后建立自己的分支，先在自己的分支上修改
-* 必须先在`Jupyter notebook`中写，代码运行测试通过
-* 每一章notebook下面必须附上写这篇文章的参考文献（采用规定格式）
-* 文章需要的图片必须放在`docs/_images/`下，图片采用相对路径
-* 数据集请放在`data/`下，命名好名称
-* 尽量拓展每一章节的内容，发挥想象多举几个用例
-* 项目初期尽量以研读官方文档为主，如果能够把数据分析的项目等改写成Polars实现，那么后续再加入
 
 ## 文件内容
 
@@ -60,11 +55,9 @@
 
 ## 参考资料
 
-* [pola-rs/polars-book-cn](https://github.com/pola-rs/polars-book-cn) 中文文档
-* [Python3基础教程](https://www.runoob.com/python3/python3-tutorial.html)
-* [Numpy教程](https://www.runoob.com/numpy/numpy-tutorial.html)
-* [Pandas教程](https://www.runoob.com/pandas/pandas-tutorial.html)
-* [Spark教程](https://www.w3cschool.cn/spark/)
+* 中文文档：[pola-rs/polars-book-cn](https://github.com/pola-rs/polars-book-cn)
+* Datawhale出品：[Joyful-Pandas](https://github.com/datawhalechina/joyful-pandas)
+* Polars [Python API](https://pola-rs.github.io/polars/py-polars/html/reference/)
 
 ## 人员安排
 
@@ -77,6 +70,7 @@
 </div>
 
 ## 关注我们
+
 <div align=center>
 <p>扫描下方二维码关注公众号：Datawhale</p>
 <img src="https://raw.githubusercontent.com/datawhalechina/pumpkin-book/master/res/qrcode.jpeg" width = "180" height = "180">
