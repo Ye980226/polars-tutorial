@@ -66,7 +66,7 @@
 |成员|个人简介|社交主页|
 |--|--|--|
 |林景|武汉理工大学理学院数学系本科|[CSDN](https://blog.csdn.net/linjing_zyq)<br />[Github](https://github.com/linjing-lab)|
-|陈煜昂|UMich CSE本科 Arch&PLT方向|[Github](https://github.com/Hilbert-Yaa)|
+|陈煜昂|UMich CSE本科 Arch&PLT方向|[Github](https://github.com/Hilbert-Yaa)<br />[Linkedin](https://www.linkedin.com/mwlite/in/hilbert-chen)|
 |房子源|北京师范大学硕士 AI+教育方向|[CSDN](https://blog.csdn.net/qq_39354108)<br />[Github](https://github.com/ziyuan0014)|
 
 </div>
