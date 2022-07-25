@@ -15,7 +15,7 @@
 
 <p align="center">
     <a href='https://h2oai.github.io/db-benchmark/'>
-        <img src="./docs/_images/ch02_db-benchmark.png" width="55%">
+        <img src="./docs/_images/ch03_db-benchmark.png" width="55%">
     </a>
 </p>
 
